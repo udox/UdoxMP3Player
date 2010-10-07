@@ -12,11 +12,8 @@ package com.udox.mp3player.view
 	
 	public class ProgressBar extends Sprite
 	{
-		[Embed(source="../assets/ITCAvantGardeStd-Bold.otf", fontName="_AvantGarde", fontWeight="bold")] 
-		public var _font:String;
-		
-//		[Embed(source="../assets/BEBAS.ttf", fontName="_Bebas")]
-//		public var _Bebas:String;
+		[Embed(source="../assets/BEBAS.ttf", fontName="_Bebas")]
+		public var _Bebas:String;
 		
 		[Embed(source="../assets/progress-shadow.png")]
 		private static var ShadowPNG:Class;

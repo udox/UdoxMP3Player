@@ -1,0 +1,6 @@
+Font
+----
+
+Hopefully it's okay to leave this 'Bebas' font here.
+
+It was downloaded as a royalty-free web font from the excellent [Font Squirrel](http://fontsquirrel.com) site.

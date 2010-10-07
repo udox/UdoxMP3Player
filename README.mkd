@@ -10,3 +10,9 @@ interface off of.
 
 The rest of the 'view' part of the code is pretty much just an example and you'd
 switch it out. Shows how to display a playlist, progress bar, volume control etc.
+
+Dependencies
+------------
+
+The current UI has a dependency on the [OpenPyro](http://www.openpyro.org/) component library
+(which is a very nice pure-AS3 package) which is just used here for rendering the playlist.

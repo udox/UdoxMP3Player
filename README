@@ -1,0 +1,8 @@
+About
+=====
+
+This mp3 player can load playlists in the [XSPF format](http://xspf.org/)
+
+The organisation of the code is such that there is an MP3Player class (gratefully ripped off and tweakd from http://unformatt.com/news/as3-mp3-player/ !!) that exposes a nice simple API and broadcasts useful events that you can build your interface off of.
+
+The rest of the 'view' part of the code is pretty much just an example and you'd switch it out. Shows how to display a playlist, progress bar, volume control etc.

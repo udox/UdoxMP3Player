@@ -67,7 +67,7 @@ package com.udox.mp3player.view
 			songText.x = songText_x;
 			songText.y = songText_y;
 			var tf:TextFormat = new TextFormat();
-			tf.font = '_AvantGarde';
+			tf.font = '_Bebas';
 			tf.letterSpacing = -0.7;
 			songText.defaultTextFormat = tf;
 			

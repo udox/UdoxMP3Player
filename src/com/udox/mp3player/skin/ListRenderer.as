@@ -12,8 +12,8 @@ package com.udox.mp3player.skin
 	
 	public class ListRenderer extends DefaultListRenderer
 	{
-		[Embed(source="../assets/ITCAvantGardeStd-Bold.otf", fontName="_AvantGarde", fontWeight="bold")] 
-		public var _font:String;
+		[Embed(source="../assets/BEBAS.ttf", fontName="_Bebas")]
+		public var _Bebas:String;
 		
 		public var labelYOffset:Number = 0;
 		
@@ -24,7 +24,7 @@ package com.udox.mp3player.skin
 			_rollOverBackgroundPainter = new FillPainter(0x000000);
 			
 			_labelFormat = new TextFormat(
-				'_AvantGarde',
+				'_Bebas',
 				10,
 				0xffffff,
 				true
